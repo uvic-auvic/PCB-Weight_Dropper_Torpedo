@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LOIIUXNL
 
 [Document2]
-DocumentPath=Stepper_Motor_Driver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VXGVJRKH
-
-[Document3]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Capacitors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_DACs.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Diodes.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Fuses.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Gate_Drivers.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Inductors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Interface.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Logic.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Microprocessors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document12]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Miscellaneous.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Motor_Controllers.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Op_amps.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Oscillators.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document16]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Regulators.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Relays.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document18]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Resistors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Sensors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Switches.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Transistors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=..\..\..\..\..\..\AUVic\Altium_Resources\Libraries\Altium_Custom\AUVic_Integrated_Library_Virtual_Components.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=Weight_Dropper_Torpedo_1_0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -468,7 +451,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=1
@@ -1327,64 +1310,112 @@ UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=AUVic_Integrated_Library_Capacitors.IntLib
-ComponentDesignItemID0=100uF, 35V, 20%, Alum, SMD
-ComponentSymbolReference0=100uF, 35V, 20%, Alum, SMD
-ComponentUpdate0=0
+ComponentDesignItemID0=0.1uF 16V 0603 SMD, Ceramic
+ComponentSymbolReference0=0.1uF 16V 0603 SMD, Ceramic
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=AUVic_Integrated_Library_Capacitors.IntLib
-ComponentDesignItemID1=100uF, 50V, 20%, Alum, SMD
-ComponentSymbolReference1=100uF, 50V, 20%, Alum, SMD
-ComponentUpdate1=0
+ComponentDesignItemID1=0.1uF 50V 0805 SMD, Ceramic
+ComponentSymbolReference1=0.1uF 50V 0805 SMD, Ceramic
+ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=AUVic_Integrated_Library_Capacitors.IntLib
-ComponentDesignItemID2=470uF 25V SMD Aluminum Nichicon
-ComponentSymbolReference2=470uF 25V SMD Aluminum Nichicon
+ComponentDesignItemID2=100uF, 35V, 20%, Alum, SMD
+ComponentSymbolReference2=100uF, 35V, 20%, Alum, SMD
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=AUVic_Integrated_Library_Connectors.IntLib
-ComponentDesignItemID3=2x1 Terminal Block
-ComponentSymbolReference3=2x1 Terminal Block
-ComponentUpdate3=0
+ComponentLibraryIdentifier3=AUVic_Integrated_Library_Capacitors.IntLib
+ComponentDesignItemID3=1uF 25V 0603 SMD, Ceramic
+ComponentSymbolReference3=1uF 25V 0603 SMD, Ceramic
+ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=AUVic_Integrated_Library_Connectors.IntLib
-ComponentDesignItemID4=Arduino Shield Heade
-ComponentSymbolReference4=Arduino Shield Heade
-ComponentUpdate4=0
+ComponentLibraryIdentifier4=AUVic_Integrated_Library_Capacitors.IntLib
+ComponentDesignItemID4=1uF 50V 0603 SMD, Ceramic
+ComponentSymbolReference4=1uF 50V 0603 SMD, Ceramic
+ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=AUVic_Integrated_Library_Connectors.IntLib
-ComponentDesignItemID5=Connector for A4988 Stepper Motor Driver
-ComponentSymbolReference5=Connector for A4988 Stepper Motor Driver
+ComponentLibraryIdentifier5=AUVic_Integrated_Library_Capacitors.IntLib
+ComponentDesignItemID5=470uF 25V SMD Aluminum Nichicon
+ComponentSymbolReference5=470uF 25V SMD Aluminum Nichicon
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=AUVic_Integrated_Library_Connectors.IntLib
-ComponentDesignItemID6=Header, Male, 1x4, Right-Angle
-ComponentSymbolReference6=Header, Male, 1x4, Right-Angle
-ComponentUpdate6=0
+ComponentDesignItemID6=1x2 Male Header
+ComponentSymbolReference6=1x2 Male Header
+ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=AUVic_Integrated_Library_Diodes.IntLib
-ComponentDesignItemID7=TSSA5U50E3GCT-ND
-ComponentSymbolReference7=TSSA5U50E3GCT-ND
-ComponentUpdate7=0
+ComponentLibraryIdentifier7=AUVic_Integrated_Library_Connectors.IntLib
+ComponentDesignItemID7=1x3 Male Jumper
+ComponentSymbolReference7=1x3 Male Jumper
+ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=AUVic_Integrated_Library_Inductors.IntLib
-ComponentDesignItemID8=220µH 3.5A Inductor
-ComponentSymbolReference8=220µH 3.5A Inductor
+ComponentLibraryIdentifier8=AUVic_Integrated_Library_Connectors.IntLib
+ComponentDesignItemID8=2x1 Terminal Block
+ComponentSymbolReference8=2x1 Terminal Block
 ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=AUVic_Integrated_Library_Regulators.IntLib
-ComponentDesignItemID9=12V 3A Buck DC-DC
-ComponentSymbolReference9=12V 3A Buck DC-DC
+ComponentLibraryIdentifier9=AUVic_Integrated_Library_Connectors.IntLib
+ComponentDesignItemID9=Arduino Shield Header Reduced Pin
+ComponentSymbolReference9=Arduino Shield Header Reduced Pin
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=AUVic_Integrated_Library_Connectors.IntLib
+ComponentDesignItemID10=Connector for A4988 Stepper Motor Driver
+ComponentSymbolReference10=Connector for A4988 Stepper Motor Driver
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=AUVic_Integrated_Library_Connectors.IntLib
+ComponentDesignItemID11=Header, Male, 2x2 Conn, Shrouded, THT, 2MM RT ANG TIN
+ComponentSymbolReference11=Header, Male, 2x2 Conn, Shrouded, THT, 2MM RT ANG TIN
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=AUVic_Integrated_Library_Diodes.IntLib
+ComponentDesignItemID12=JD 2A 600V
+ComponentSymbolReference12=JD 2A 600V
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=AUVic_Integrated_Library_Diodes.IntLib
+ComponentDesignItemID13=TSSA5U50E3GCT-ND
+ComponentSymbolReference13=TSSA5U50E3GCT-ND
+ComponentUpdate13=0
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=AUVic_Integrated_Library_Fuses.IntLib
+ComponentDesignItemID14=SMD Fuse, 2A, 63V,
+ComponentSymbolReference14=SMD Fuse, 2A, 63V,
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=AUVic_Integrated_Library_Inductors.IntLib
+ComponentDesignItemID15=220µH 3.5A Inductor
+ComponentSymbolReference15=220µH 3.5A Inductor
+ComponentUpdate15=0
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=AUVic_Integrated_Library_Regulators.IntLib
+ComponentDesignItemID16=12V 3A Buck DC-DC
+ComponentSymbolReference16=12V 3A Buck DC-DC
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=AUVic_Integrated_Library_Transistors.IntLib
+ComponentDesignItemID17=2CH High Side Drive 8A 28V 12-Pin
+ComponentSymbolReference17=2CH High Side Drive 8A 28V 12-Pin
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1410,66 +1441,108 @@ ParameterName4=Created By
 ParameterUpdate4=1
 ParameterName5=Created On
 ParameterUpdate5=1
-ParameterName6=Date Created
+ParameterName6=Current
 ParameterUpdate6=1
-ParameterName7=Description
+ParameterName7=Date Created
 ParameterUpdate7=1
-ParameterName8=Library Reference
+ParameterName8=Date Published
 ParameterUpdate8=1
-ParameterName9=Made Bates
+ParameterName9=Description
 ParameterUpdate9=1
-ParameterName10=Made by
+ParameterName10=Last Updated
 ParameterUpdate10=1
-ParameterName11=PackageDescription
+ParameterName11=LatestRevisionDate
 ParameterUpdate11=1
-ParameterName12=Publisher
+ParameterName12=LatestRevisionNote
 ParameterUpdate12=1
-ParameterName13=Supplier 1
+ParameterName13=Library Reference
 ParameterUpdate13=1
-ParameterName14=Supplier 2
+ParameterName14=Made Bates
 ParameterUpdate14=1
-ParameterName15=Supplier 3
+ParameterName15=Made by
 ParameterUpdate15=1
-ParameterName16=Supplier Part Number 1
+ParameterName16=MFG
 ParameterUpdate16=1
-ParameterName17=Supplier Part Number 2
+ParameterName17=MFG#
 ParameterUpdate17=1
-ParameterName18=Supplier Part Number 3
+ParameterName18=PackageDescription
 ParameterUpdate18=1
-ParameterName19=Value
+ParameterName19=Published
 ParameterUpdate19=1
+ParameterName20=Publisher
+ParameterUpdate20=1
+ParameterName21=Reviewed By
+ParameterUpdate21=1
+ParameterName22=Supplier 1
+ParameterUpdate22=1
+ParameterName23=Supplier 1 Part Number
+ParameterUpdate23=1
+ParameterName24=Supplier 2
+ParameterUpdate24=1
+ParameterName25=Supplier 3
+ParameterUpdate25=1
+ParameterName26=Supplier Part Number
+ParameterUpdate26=1
+ParameterName27=Supplier Part Number 1
+ParameterUpdate27=1
+ParameterName28=Supplier Part Number 2
+ParameterUpdate28=1
+ParameterName29=Supplier Part Number 3
+ParameterUpdate29=1
+ParameterName30=Type
+ParameterUpdate30=1
+ParameterName31=Value
+ParameterUpdate31=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=2X1 Terminal Blocks
+ModelName0=1206 SMD
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=5-DDPAK
+ModelName1=2X1 Males Header
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=DIP16
+ModelName2=2X1 Terminal Blocks
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=DIP32 Arduino Shield
+ModelName3=5-DDPAK
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=DO-214AC
+ModelName4=Arduino Shield Reduced Pin
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=EEE-1HA221P
+ModelName5=CAPC1608N(0603")
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=Header, Male, 1X4, More solder
+ModelName6=CAPC2012N(0805")
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=Inductor Cylinder - 1422435C
+ModelName7=DIP16
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=Radial_CAN_6.6mm
+ModelName8=DO-214AA
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=Radial_CAN_8.3mm_10.5mm
+ModelName9=DO-214AC
 ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=EEE-1HA221P
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=Header, Male, 1x3, Pitch: 0.1" (2.54mm),THT
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=HEADER, MALE, Shrouded, 4POS, 2MM, RT ANG,THT
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=Inductor Cylinder - 1422435C
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=PowerSSO-12
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=Radial_CAN_6.6mm
+ModelUpdate15=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
