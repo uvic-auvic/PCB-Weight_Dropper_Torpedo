@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Weight_Dropper_Torpedo_1_0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -428,6 +428,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document24]
+DocumentPath=Weight_Dropper_Torpedo_1_0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KVBATIWK
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -475,7 +492,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Weight_Dropper_Torpedo_1_0
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1372,7 +1389,7 @@ ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=AUVic_Integrated_Library_Connectors.IntLib
 ComponentDesignItemID10=Connector for A4988 Stepper Motor Driver
 ComponentSymbolReference10=Connector for A4988 Stepper Motor Driver
-ComponentUpdate10=0
+ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=AUVic_Integrated_Library_Connectors.IntLib
