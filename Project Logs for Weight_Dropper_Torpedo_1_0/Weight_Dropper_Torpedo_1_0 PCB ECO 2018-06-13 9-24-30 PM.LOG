@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=L1 Old Footprint=21mm Dia Inductor New Footprint=12mm SMD
+Change Component Footprint: Designator=C5 Old Footprint=EEE-1HA221P New Footprint=6.3mm Dia Radial SMD
+Change Component Footprint: Designator=C4 Old Footprint=Radial_CAN_6.6mm New Footprint=12.5mm Dia Radial THD
+Change Component Comment : Designator=C4 Old Comment=100µF New Comment=470µF
+Change Component Comment : Designator=L1 Old Comment=150µH New Comment=47µH
+Change Component Comment : Designator=C5 Old Comment=470µF New Comment=150µF
+Change component parameters: Designator = "L1"; Footprint = "12mm SMD"; UniqueID = "\KIJHQYIY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/wurth-electronics-inc/7447709470/732-1246-1-ND/1639307"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "535-11413-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47µH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "12.5mm Dia Radial THD"; UniqueID = "\LPVTGKTP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/panasonic-electronic-components/EEU-FM1H471/P12400-ND/613761"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P12400-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "6.3mm Dia Radial SMD"; UniqueID = "\VUUFEUDE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE5017DKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150µF"; VariantName = "[No Variations]"
+Added Room: Name=Master

@@ -1,0 +1,110 @@
+Added Pin To Net: NetName=Vin Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=C3-2
+Added Pin To Net: NetName=Vin Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=12V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Vin Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Vin Pin=C7-2
+Added Pin To Net: NetName=5V Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Pin To Net: NetName=GND Pin=CN1-7
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=CN1-8
+Added Pin To Net: NetName=CurrentSense-ADC Pin=CN1-9
+Added Pin To Net: NetName=NetCN1_17 Pin=CN1-17
+Added Pin To Net: NetName=NetCN1_18 Pin=CN1-18
+Added Pin To Net: NetName=NetCN1_19 Pin=CN1-19
+Added Pin To Net: NetName=NetCN1_20 Pin=CN1-20
+Added Pin To Net: NetName=NetCN1_21 Pin=CN1-21
+Added Pin To Net: NetName=NetCN1_22 Pin=CN1-22
+Added Pin To Net: NetName=Torpedo-Control-2 Pin=CN1-23
+Added Pin To Net: NetName=Torpedo-Control-1 Pin=CN1-24
+Added Pin To Net: NetName=CurrentSense-Enable Pin=CN1-25
+Added Pin To Net: NetName=CurrentSense-Select Pin=CN1-26
+Added Pin To Net: NetName=NetCN1_17 Pin=CN2-1
+Added Pin To Net: NetName=NetCN1_18 Pin=CN2-2
+Added Pin To Net: NetName=NetCN1_19 Pin=CN2-3
+Added Pin To Net: NetName=NetCN1_20 Pin=CN2-4
+Added Pin To Net: NetName=NetCN2_5 Pin=CN2-5
+Added Pin To Net: NetName=NetCN2_5 Pin=CN2-6
+Added Pin To Net: NetName=NetCN1_21 Pin=CN2-7
+Added Pin To Net: NetName=NetCN1_22 Pin=CN2-8
+Added Pin To Net: NetName=GND Pin=CN2-9
+Added Pin To Net: NetName=5V Pin=CN2-10
+Added Pin To Net: NetName=NetCN2_11 Pin=CN2-11
+Added Pin To Net: NetName=NetCN2_12 Pin=CN2-12
+Added Pin To Net: NetName=NetCN2_13 Pin=CN2-13
+Added Pin To Net: NetName=NetCN2_14 Pin=CN2-14
+Added Pin To Net: NetName=GND Pin=CN2-15
+Added Pin To Net: NetName=Vin Pin=CN2-16
+Added Pin To Net: NetName=NetCN2_11 Pin=CN3-1
+Added Pin To Net: NetName=NetCN2_12 Pin=CN3-2
+Added Pin To Net: NetName=NetCN2_13 Pin=CN3-3
+Added Pin To Net: NetName=NetCN2_14 Pin=CN3-4
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=D3-K
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=Vin Pin=F1-2
+Added Pin To Net: NetName=NetF1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=Vin Pin=JP1-1
+Added Pin To Net: NetName=Torpedo-Power Pin=JP1-2
+Added Pin To Net: NetName=12V Pin=JP1-3
+Added Pin To Net: NetName=12V Pin=JP2-1
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=JP2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=12V Pin=L1-2
+Added Pin To Net: NetName=Torpedo-Control-1 Pin=U1-1
+Added Pin To Net: NetName=CurrentSense-Enable Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=CurrentSense-Select Pin=U1-4
+Added Pin To Net: NetName=CurrentSense-ADC Pin=U1-5
+Added Pin To Net: NetName=Torpedo-Control-2 Pin=U1-6
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=U1-8
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=U1-9
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=U1-10
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=U1-11
+Added Pin To Net: NetName=Torpedo-Power Pin=U1-13
+Added Pin To Net: NetName=Vin Pin=U2-1
+Added Pin To Net: NetName=NetD2_2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=12V Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Member To Class: ClassName=Master Member=Component C1 100µF
+Added Member To Class: ClassName=Master Member=Component C2 0.1µF
+Added Member To Class: ClassName=Master Member=Component C3 1µF
+Added Member To Class: ClassName=Master Member=Component C4 100µF
+Added Member To Class: ClassName=Master Member=Component C5 470µF
+Added Member To Class: ClassName=Master Member=Component C6 1µF
+Added Member To Class: ClassName=Master Member=Component C7 0.1µF
+Added Member To Class: ClassName=Master Member=Component CN1 Header to plug into Arduino Board
+Added Member To Class: ClassName=Master Member=Component CN2 Connector for A4988 Stepper Motor Driver
+Added Member To Class: ClassName=Master Member=Component CN3 2x2 Shrouded RT Ang
+Added Member To Class: ClassName=Master Member=Component D1 JD 2A 600V
+Added Member To Class: ClassName=Master Member=Component D2 TSSA5U50E3GCT-ND
+Added Member To Class: ClassName=Master Member=Component D3 JD 2A 600V
+Added Member To Class: ClassName=Master Member=Component F1 2A
+Added Member To Class: ClassName=Master Member=Component J1 2x1 Term Block
+Added Member To Class: ClassName=Master Member=Component J2 2x1 Term Block
+Added Member To Class: ClassName=Master Member=Component J3 2x1 Term Block
+Added Member To Class: ClassName=Master Member=Component JP1 1x3 Male Jumper
+Added Member To Class: ClassName=Master Member=Component JP2 1X2 Pin Head
+Added Member To Class: ClassName=Master Member=Component L1 220µH
+Added Member To Class: ClassName=Master Member=Component U1 2CH High Side Drive 8A 28V 12-Pin
+Added Member To Class: ClassName=Master Member=Component U2 12V 3A Buck DC-DC
+Added Room: Name=Master

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetD2_2 Pin=L1-1
+Removed Pin From Net: NetName=12V Pin=L1-2
+Removed Member From Class: ClassName=Master Member=L1
+Added Room: Name=Master

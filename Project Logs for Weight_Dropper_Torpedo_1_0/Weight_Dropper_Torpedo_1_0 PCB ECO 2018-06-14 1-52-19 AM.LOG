@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetCN2_14 Pin=CN3-2
+Removed Pin From Net: NetName=NetCN2_12 Pin=CN3-4
+Removed Pin From Net: NetName=GND Pin=D3-A
+Removed Pin From Net: NetName=Torpedo-Output-2 Pin=D3-K
+Removed Pin From Net: NetName=Torpedo-Output-1 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=Torpedo-Output-2 Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Member From Class: ClassName=Master Member=J2
+Removed Member From Class: ClassName=Master Member=J3
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C2
+Change Component Designator: OldDesignator=C7 NewDesignator=C3
+Change Component Designator: OldDesignator=C8 NewDesignator=C4
+Change Component Designator: OldDesignator=C9 NewDesignator=C5
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Added Component: Designator=CN4(HEADER, MALE, Shrouded, 4POS, 2MM, RT ANG,THT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Published"; Value = "2018-06-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed By"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H10244-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "H2019-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/smc-diode-solutions/S2JTR/1655-1739-1-ND/6674450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-1739-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN2_12 Pin=CN3-2
+Added Pin To Net: NetName=NetCN2_14 Pin=CN3-4
+Added Pin To Net: NetName=GND Pin=CN4-1
+Added Pin To Net: NetName=GND Pin=CN4-2
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=CN4-3
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=CN4-4
+Added Pin To Net: NetName=GND Pin=D2-A
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=D2-K
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD3_2
+Added Member To Class: ClassName=Master Member=Component CN4 2x2 Shrouded RT Ang
+Added Room: Name=Master

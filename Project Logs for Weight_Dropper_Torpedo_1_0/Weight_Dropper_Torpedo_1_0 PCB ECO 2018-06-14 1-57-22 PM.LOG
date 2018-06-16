@@ -1,0 +1,46 @@
+Change component parameters: Designator = "C2"; Footprint = "CAPC1608N(0603")"; UniqueID = "\GHWHALLY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Lyden Smith"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2017-10-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1860-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC1608N(0603")"; UniqueID = "\IPPLYYBF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Lyden Smith"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2017-10-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1860-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAPC1608N(0603")"; UniqueID = "\QMKEGCYI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "16-04-26"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1005-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "CAPC1608N(0603")"; UniqueID = "\BAWENALQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG"; Value = "Murata-Electronics-North-America"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFG#"; Value = "GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "16-06-27"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3897-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Torpedo-Power Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Torpedo-Power Pin=C5-2
+Added Member To Class: ClassName=Master Member=Component C4 0.1µF
+Added Member To Class: ClassName=Master Member=Component C5 1µF

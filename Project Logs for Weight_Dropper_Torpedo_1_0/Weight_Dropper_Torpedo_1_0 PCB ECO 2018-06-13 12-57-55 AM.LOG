@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=L1 Old Footprint=Inductor Cylinder - 1422435C New Footprint=21mm Dia Inductor
+Change Component Comment : Designator=L1 Old Comment=220µH New Comment=150µH
+Change component parameters: Designator = "L1"; Footprint = "21mm Dia Inductor"; UniqueID = "\KLJILBGL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/abracon-llc/AIRD-02-151K/535-11413-ND/2660673"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "535-11413-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "150µH"; VariantName = "[No Variations]"
+Added Room: Name=Master

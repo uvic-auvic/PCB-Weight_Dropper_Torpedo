@@ -1,0 +1,26 @@
+Added Component: Designator=CN1(Arduino Shield Reduced Pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made Bates"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM8865-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1206-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "SSW-106-03-T-S-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Pin To Net: NetName=GND Pin=CN1-7
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=CN1-8
+Added Pin To Net: NetName=CurrentSense-ADC Pin=CN1-9
+Added Pin To Net: NetName=NetCN1_17 Pin=CN1-17
+Added Pin To Net: NetName=NetCN1_18 Pin=CN1-18
+Added Pin To Net: NetName=NetCN1_19 Pin=CN1-19
+Added Pin To Net: NetName=NetCN1_20 Pin=CN1-20
+Added Pin To Net: NetName=NetCN1_21 Pin=CN1-21
+Added Pin To Net: NetName=NetCN1_22 Pin=CN1-22
+Added Pin To Net: NetName=Torpedo-Control-2 Pin=CN1-23
+Added Pin To Net: NetName=Torpedo-Control-1 Pin=CN1-24
+Added Pin To Net: NetName=CurrentSense-Enable Pin=CN1-25
+Added Pin To Net: NetName=CurrentSense-Select Pin=CN1-26
+Added Member To Class: ClassName=Master Member=Component CN1 Header to plug into Arduino Board
+Added Room: Name=Master

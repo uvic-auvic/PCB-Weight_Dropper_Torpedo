@@ -1,0 +1,8 @@
+Added Component: Designator=JP3(2X1 Males Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "952-3073-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Member To Class: ClassName=Master Member=Component JP3 1X2 Pin Head

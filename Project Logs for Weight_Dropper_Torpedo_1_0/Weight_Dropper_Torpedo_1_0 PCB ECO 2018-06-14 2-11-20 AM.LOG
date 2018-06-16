@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Vin Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Member To Class: ClassName=Master Member=Component C8 470µF
+Added Member To Class: ClassName=Master Member=Component D2 JD 2A 600V
+Added Member To Class: ClassName=Master Member=Component J1 2x1 Term Block
+Added Room: Name=Master

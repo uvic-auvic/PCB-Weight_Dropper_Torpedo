@@ -1,0 +1,26 @@
+Added Component: Designator=C1(Radial_CAN_6.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "493-2203-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(12.5mm Dia Radial THD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/panasonic-electronic-components/EEU-FM1H471/P12400-ND/613761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P12400-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=Vin Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=Master Member=Component C1 100µF
+Added Member To Class: ClassName=Master Member=Component C4 470µF
+Added Member To Class: ClassName=Master Member=Component L1 47µH
+Added Room: Name=Master

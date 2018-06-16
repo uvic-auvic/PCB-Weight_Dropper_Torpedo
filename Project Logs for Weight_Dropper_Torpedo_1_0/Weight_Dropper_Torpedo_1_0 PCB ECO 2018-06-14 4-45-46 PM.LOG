@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=Arduino-Ext-Power Pin=C7-2
+Removed Member From Class: ClassName=Master Member=C?
+Change Component Comment : Designator=C3 Old Comment=0.1µF New Comment=1µF
+Change Component Comment : Designator=C4 Old Comment=0.1µF New Comment=1µF
+Change Component Comment : Designator=C6 Old Comment=0.1µF New Comment=0.1uF, 50V, 10%, X7R, 0603
+Change Component Comment : Designator=C2 Old Comment=1µF New Comment=0.1uF, 50V, 10%, X7R, 0603
+Change Component Comment : Designator=C5 Old Comment=1µF New Comment=0.1uF, 50V, 10%, X7R, 0603
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change component parameters: Designator = "C3"; Footprint = "CAPC2012N(0805")"; UniqueID = "\DJTVUKSV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2018-06-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10743-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAPC2012N(0805")"; UniqueID = "\GTFQDAHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2018-06-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10743-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPC1608N(0603")"; UniqueID = "\WCQWEBUP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/tdk-corporation/C1608X7R1H104M080AA/445-5098-1-ND/2093713"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-5098-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC1608N(0603")"; UniqueID = "\EACTDBDQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/tdk-corporation/C1608X7R1H104M080AA/445-5098-1-ND/2093713"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-5098-1-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAPC1608N(0603")"; UniqueID = "\XYCMMEWK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "0.1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/tdk-corporation/C1608X7R1H104M080AA/445-5098-1-ND/2093713"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "445-5098-1-ND"; VariantName = "[No Variations]"

@@ -1,0 +1,8 @@
+Change component parameters: Designator = "U1"; Footprint = "PowerSSO-12"; UniqueID = "\OBRFBAOS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/stmicroelectronics/VND7140AJ12TR/497-15860-1-ND/5322005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Date Created"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "497-15860-6-ND"; VariantName = "[No Variations]"

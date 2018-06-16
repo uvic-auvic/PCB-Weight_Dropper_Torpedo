@@ -1,0 +1,283 @@
+Added Component: Designator=C1(Radial_CAN_6.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "493-2203-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608N(0603"))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1005-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608N(0603"))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG"; Value = "Murata-Electronics-North-America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFG#"; Value = "GRM188R61E105KA12D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "16-06-27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-3897-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Radial_CAN_6.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "493-2203-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100µF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(EEE-1HA221P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "493-2194-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470µF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1608N(0603"))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Lyden Smith"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2017-10-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1860-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2012N(0805"))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2016-03-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1276-1090-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(Arduino Shield Reduced Pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made Bates"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM8865-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1206-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "SSW-106-03-T-S-ND"; VariantName = "[No Variations]"
+Added Component: Designator=CN2(A4988 Stepper Motor Driver Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7006-ND"; VariantName = "[No Variations]"
+Added Component: Designator=CN3(HEADER, MALE, Shrouded, 4POS, 2MM, RT ANG,THT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Published"; Value = "2018-06-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reviewed By"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "H10244-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "H2019-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-214AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/smc-diode-solutions/S2JTR/1655-1739-1-ND/6674450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-1739-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "TSSA5U50 E3GCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO-214AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/smc-diode-solutions/S2JTR/1655-1739-1-ND/6674450"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "AUVic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-1739-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=F1(1206 SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/bel-fuse-inc/C1F-2/507-1881-1-ND/4968159"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "2018-06-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "507-1881-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=J1(2X1 Terminal Blocks)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made by"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2740-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J2(2X1 Terminal Blocks)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made by"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2740-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J3(2X1 Terminal Blocks)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made by"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2740-ND"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(Header, Male, 1x3, Pitch: 0.1" (2.54mm),THT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1849-1003-ND"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(2X1 Males Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Made By"; Value = "Andy Bates"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part Number"; Value = "952-3073-ND"; VariantName = "[No Variations]"
+Added Component: Designator=L1(Inductor Cylinder - 1422435C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "811-1340-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/murata-power-solutions-inc/1422435C/811-1340-ND/1924834"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "2018-06-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "811-1340-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220µH"; VariantName = "[No Variations]"
+Added Component: Designator=U1(PowerSSO-12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-15851-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U2(5-DDPAK)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/microchip-technology/LM2576-12WU/576-2130-ND/1027675"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "576-2130-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=CN1-5
+Added Pin To Net: NetName=5V Pin=CN2-10
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=C5-1
+Added Pin To Net: NetName=12V Pin=JP1-3
+Added Pin To Net: NetName=12V Pin=JP2-1
+Added Pin To Net: NetName=12V Pin=L1-2
+Added Pin To Net: NetName=12V Pin=U2-4
+Added Net: Name=12V
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=C2-2
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=C3-2
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=CN1-8
+Added Pin To Net: NetName=Arduino-Ext-Power Pin=JP2-2
+Added Net: Name=Arduino-Ext-Power
+Added Pin To Net: NetName=CurrentSense-ADC Pin=CN1-9
+Added Pin To Net: NetName=CurrentSense-ADC Pin=U1-5
+Added Net: Name=CurrentSense-ADC
+Added Pin To Net: NetName=CurrentSense-Enable Pin=CN1-25
+Added Pin To Net: NetName=CurrentSense-Enable Pin=U1-2
+Added Net: Name=CurrentSense-Enable
+Added Pin To Net: NetName=CurrentSense-Select Pin=CN1-26
+Added Pin To Net: NetName=CurrentSense-Select Pin=U1-4
+Added Net: Name=CurrentSense-Select
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=CN1-6
+Added Pin To Net: NetName=GND Pin=CN1-7
+Added Pin To Net: NetName=GND Pin=CN2-9
+Added Pin To Net: NetName=GND Pin=CN2-15
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCN1_17 Pin=CN1-17
+Added Pin To Net: NetName=NetCN1_17 Pin=CN2-1
+Added Net: Name=NetCN1_17
+Added Pin To Net: NetName=NetCN1_18 Pin=CN1-18
+Added Pin To Net: NetName=NetCN1_18 Pin=CN2-2
+Added Net: Name=NetCN1_18
+Added Pin To Net: NetName=NetCN1_19 Pin=CN1-19
+Added Pin To Net: NetName=NetCN1_19 Pin=CN2-3
+Added Net: Name=NetCN1_19
+Added Pin To Net: NetName=NetCN1_20 Pin=CN1-20
+Added Pin To Net: NetName=NetCN1_20 Pin=CN2-4
+Added Net: Name=NetCN1_20
+Added Pin To Net: NetName=NetCN1_21 Pin=CN1-21
+Added Pin To Net: NetName=NetCN1_21 Pin=CN2-7
+Added Net: Name=NetCN1_21
+Added Pin To Net: NetName=NetCN1_22 Pin=CN1-22
+Added Pin To Net: NetName=NetCN1_22 Pin=CN2-8
+Added Net: Name=NetCN1_22
+Added Pin To Net: NetName=NetCN2_5 Pin=CN2-5
+Added Pin To Net: NetName=NetCN2_5 Pin=CN2-6
+Added Net: Name=NetCN2_5
+Added Pin To Net: NetName=NetCN2_11 Pin=CN2-11
+Added Pin To Net: NetName=NetCN2_11 Pin=CN3-1
+Added Net: Name=NetCN2_11
+Added Pin To Net: NetName=NetCN2_12 Pin=CN2-12
+Added Pin To Net: NetName=NetCN2_12 Pin=CN3-2
+Added Net: Name=NetCN2_12
+Added Pin To Net: NetName=NetCN2_13 Pin=CN2-13
+Added Pin To Net: NetName=NetCN2_13 Pin=CN3-3
+Added Net: Name=NetCN2_13
+Added Pin To Net: NetName=NetCN2_14 Pin=CN2-14
+Added Pin To Net: NetName=NetCN2_14 Pin=CN3-4
+Added Net: Name=NetCN2_14
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=NetD2_2 Pin=U2-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=Torpedo-Control-1 Pin=CN1-24
+Added Pin To Net: NetName=Torpedo-Control-1 Pin=U1-1
+Added Net: Name=Torpedo-Control-1
+Added Pin To Net: NetName=Torpedo-Control-2 Pin=CN1-23
+Added Pin To Net: NetName=Torpedo-Control-2 Pin=U1-6
+Added Net: Name=Torpedo-Control-2
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=D1-K
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=J2-1
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=U1-10
+Added Pin To Net: NetName=Torpedo-Output-1 Pin=U1-11
+Added Net: Name=Torpedo-Output-1
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=D3-K
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=J3-1
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=U1-8
+Added Pin To Net: NetName=Torpedo-Output-2 Pin=U1-9
+Added Net: Name=Torpedo-Output-2
+Added Pin To Net: NetName=Torpedo-Power Pin=JP1-2
+Added Pin To Net: NetName=Torpedo-Power Pin=U1-13
+Added Net: Name=Torpedo-Power
+Added Pin To Net: NetName=Vin Pin=C1-1
+Added Pin To Net: NetName=Vin Pin=C4-1
+Added Pin To Net: NetName=Vin Pin=C6-2
+Added Pin To Net: NetName=Vin Pin=C7-2
+Added Pin To Net: NetName=Vin Pin=CN2-16
+Added Pin To Net: NetName=Vin Pin=F1-2
+Added Pin To Net: NetName=Vin Pin=JP1-1
+Added Pin To Net: NetName=Vin Pin=U2-1
+Added Net: Name=Vin
+Added Class: Name=Master
