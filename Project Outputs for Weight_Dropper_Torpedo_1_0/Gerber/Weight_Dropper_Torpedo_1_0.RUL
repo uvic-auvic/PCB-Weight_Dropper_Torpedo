@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Poorna\OneDrive - University of Victoria\University\Clubs\AUVic\PCB\Weight_Dropper_Torpedo_1.0_PCB\Weight_Dropper_Torpedo_1_0.PcbDoc
+RuleKind=Width|RuleName=Power|Scope=Board|Minimum=39.37
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Signal|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.30
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
