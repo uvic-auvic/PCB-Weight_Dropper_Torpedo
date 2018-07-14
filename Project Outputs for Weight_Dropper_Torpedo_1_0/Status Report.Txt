@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Weight_Dropper_Torpedo_1_0.PcbDoc]
-   Generated File[Weight_Dropper_Torpedo_1_0.TXT]
-   Generated File[Weight_Dropper_Torpedo_1_0.LDP]
-   Generated File[Weight_Dropper_Torpedo_1_0.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:31:28 AM On 2018-07-02
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Weight_Dropper_Torpedo_1_0.PrjPCB]
+   Generated File[Bill of Materials-Weight_Dropper_Torpedo_1_0.xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 9:19:38 PM On 2018-06-16
+Finished Output Generation At 10:31:58 AM On 2018-07-02

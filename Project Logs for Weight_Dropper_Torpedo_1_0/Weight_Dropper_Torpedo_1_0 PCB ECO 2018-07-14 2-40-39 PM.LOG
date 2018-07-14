@@ -1,0 +1,9 @@
+Change component parameters: Designator = "L1"; Footprint = "12mm SMD"; UniqueID = "\EYEBVGCC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/wurth-electronics-inc/7447709470/732-1246-1-ND/1639307"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created By"; Value = "Poorna Chander Kalidas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "2018-06-13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "732-1246-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47µH"; VariantName = "[No Variations]"

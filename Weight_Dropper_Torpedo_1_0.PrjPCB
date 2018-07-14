@@ -462,175 +462,84 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document26]
+DocumentPath=BOM Generation.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Design Rule Check - Weight_Dropper_Torpedo_1_0.html
+DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\BOM\Bill of Materials-Weight_Dropper_Torpedo_1_0.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Weight_Dropper_Torpedo_1_0.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\NC Drill\Weight_Dropper_Torpedo_1_0.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\Weight_Dropper_Torpedo_1_0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GML
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Weight_Dropper_Torpedo_1_0.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\NC Drill\Weight_Dropper_Torpedo_1_0.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\Gerber\Weight_Dropper_Torpedo_1_0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.REP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Free Documents\Gerber\Weight_Dropper_Torpedo_1_0.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Gerber\Weight_Dropper_Torpedo_1_0.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\Weight_Dropper_Torpedo_1_0.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Free Documents\NC Drill\Weight_Dropper_Torpedo_1_0.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Weight_Dropper_Torpedo_1_0\NC Drill\Weight_Dropper_Torpedo_1_0.TXT
 DItemRevisionGUID=
 
@@ -697,7 +606,7 @@ OutputDefault1=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Pantum P2500W Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
